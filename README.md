@@ -36,3 +36,33 @@
 
 -§ git flow feature finish <feature_name>
 
+## Release
+
+ - § git flow release start v0.1
+
+on termine avec
+
+- § git flow release finish v0.1
+
+## publication des modifications
+
+- § git push origin --tags
+
+## push sur la master
+
+- § git push origin master
+
+## Hotfix
+
+### creation branch correction bug
+
+- § git flow hotfix start bug
+
+apres correction 
+
+- § git flow hotfix finish bug
+
+
+
+
+
