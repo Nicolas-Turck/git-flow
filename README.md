@@ -52,5 +52,16 @@ on termine avec
 
 - § git push origin master
 
+## hotfix
+
+# creation branch hotfix
+
+- § git flow hotfix start bug
+
+- git add ... git commit ...
+
+# terminer avec 
+
+- § git flow hotfix finish bug 
 
 
